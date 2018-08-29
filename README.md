@@ -16,7 +16,7 @@ Additionally, hacker battles will not be included here.
  | Unknown Network 1: Unknown Context                |   19   |  15  |    27    |
  | UC Berkeley: EECS Department                      |   177  |  31  |    7     |
  | Workhouse: Work Management System                 |   268  |  27  |    2     |
- | Equity First Bank: San Francisco                  |   3008 |  32  |    10    |
+ | Equity First Bank: San Francisco                  |   3008 |  14  |    10    |
  | Mitsuzen HDI-10: Heart                            |   161  |  37  |    5     |
  | Trash World News: Unknown Context                 |   612  |  20  |    3     |
  | TEC Redshift: Development Kit                     |   4496 |  22  |    3     |
