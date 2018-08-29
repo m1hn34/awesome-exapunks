@@ -15,7 +15,7 @@ Additionally, hacker battles will not be included here.
  | SFCTA Highway Sign #4903: Remote Access Interface |   166  |  10  |    1     |
  | Unknown Network 1: Unknown Context                |   19   |  15  |    27    |
  | UC Berkeley: EECS Department                      |   177  |  31  |    7     |
- | Workhouse: Work Management System                 |   514  |  27  |    2     |
+ | Workhouse: Work Management System                 |   268  |  27  |    2     |
  | Equity First Bank: San Francisco                  |   3008 |  32  |    10    |
  | Mitsuzen HDI-10: Heart                            |   161  |  37  |    5     |
  | Trash World News: Unknown Context                 |   612  |  20  |    3     |
