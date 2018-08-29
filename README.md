@@ -19,4 +19,11 @@ Additionally, hacker battles will not be included here.
  | Equity First Bank: San Francisco                  |   3008 |  32  |    10    |
  | Mitsuzen HDI-10: Heart                            |   161  |  37  |    5     |
  | Trash World News: Unknown Context                 |   612  |  20  |    3     |
- | TEC Redshift: Development Kit                     |   5959 |  22  |    3     |
+ | TEC Redshift: Development Kit                     |   4496 |  22  |    3     |
+ | TEC Exa-Blaster Modem                             |   241  |  58  |    10    |
+ | Emerson's Guide: Streetsmarts GIS Database        |   46   |  40  |    6     |
+ | Mitsuzen HDI-10: Left Hand                        |   50   |  24  |    9     |
+ | Sawayama Wonderdisc: Drive Controller             |   3814 |  52  |    32    |
+ | Alliance Power & Light: Streetsmarts GIS Database |   41   |  43  |    71    |
+ | Xtreme League Baseball: Player Database           |   258  |  57  |    3     |
+ | King's Ransom Online: US West Realm               |   45   |  54  |    32    |
