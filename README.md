@@ -8,13 +8,13 @@ Additionally, hacker battles will not be included here.
  | Trash World News: Tutorial 2                      |   7    |  6   |    2     |
  | Trash World News: Tutorial 3                      |   9    |  12  |    3     |
  | Trash World News: Tutorial 4                      |   163  |  10  |    2     |
- | Euclid's Pizza: Order System                      |   13   |  12  |    1     |
+ | Euclid's Pizza: Order System                      |   13   |  11  |    1     |
  | Mitsuzen HDI-10: Left Arm                         |   67   |  14  |    5     |
  | Last Stop Staxnet: Factory 11                     |   29   |  11  |    2     |
- | Zebros Copies: Point of Sale System               |   71   |  30  |    2     |
+ | Zebros Copies: Point of Sale System               |   60   |  23  |    2     |
  | SFCTA Highway Sign #4903: Remote Access Interface |   166  |  10  |    1     |
  | Unknown Network 1: Unknown Context                |   19   |  15  |    27    |
- | UC Berkeley: EECS Department                      |   177  |  31  |    7     |
+ | UC Berkeley: EECS Department                      |   137  |  27  |    7     |
  | Workhouse: Work Management System                 |   268  |  27  |    2     |
  | Equity First Bank: San Francisco                  |   3008 |  14  |    10    |
  | Mitsuzen HDI-10: Heart                            |   161  |  37  |    5     |
