@@ -1,4 +1,4 @@
-Solutions for Exapunks levels, with separate files for each optimisation category where relevant(not all levels will have 3 files).
+Solutions for Exapunks levels, with separate files for each optimisation category where relevant (not all levels will have 3 files).
 Note that the table below does not indicate one solution that has the indicated scores, rather, the solutions for each category have said scores.
 Additionally, hacker battles will not be included here.
 
@@ -19,7 +19,7 @@ Additionally, hacker battles will not be included here.
  | Equity First Bank: San Francisco                  |   3008 |  14  |    10    |
  | Mitsuzen HDI-10: Heart                            |   161  |  37  |    5     |
  | Trash World News: Unknown Context                 |   612  |  20  |    3     |
- | TEC Redshift: Development Kit                     |   4496 |  22  |    3     |
+ | TEC Redshift: Development Kit                     |   4496 |  20  |    2     |
  | TEC Exa-Blaster Modem                             |   241  |  58  |    10    |
  | Emerson's Guide: Streetsmarts GIS Database        |   46   |  40  |    6     |
  | Mitsuzen HDI-10: Left Hand                        |   50   |  24  |    9     |
