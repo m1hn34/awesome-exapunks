@@ -32,7 +32,7 @@ Additionally, hacker battles will not be included here. Levels marked as `NYI` a
  | TEC Exa-Blaster Modem: Dataphone Network          |   1046 |  69  |    9     |
  | Last Stop Staxnet: Warehouse 27                   |   288  |  54  |    22    |
  | Mitsuzen HDI-10: Visual Cortex                    |   365  |  40  |    11    |
- | Holman Dynamics: Sales System                     |   4649 |  61  |    3     |
+ | Holman Dynamics: Sales System                     |   4649 |  40  |    3     |
  | U.S. Government: FEMA Genetic Database            |   771  |  100 |    65    |
  | Unknown Network 2: Unknown Context                |   231  |  29  |    53    |
  | TEC Exa-Blaster Modem: Pager Network              |   627  |  64  |    27    |
