@@ -7,23 +7,24 @@ Additionally, hacker battles will not be included here.
  | Trash World News: Tutorial 1                      |   4    |  3   |    2     |
  | Trash World News: Tutorial 2                      |   7    |  6   |    2     |
  | Trash World News: Tutorial 3                      |   9    |  12  |    3     |
- | Trash World News: Tutorial 4                      |   163  |  10  |    2     |
+ | Trash World News: Tutorial 4                      |   162  |  10  |    2     |
  | Euclid's Pizza: Order System                      |   13   |  11  |    1     |
- | Mitsuzen HDI-10: Left Arm                         |   67   |  14  |    5     |
+ | Mitsuzen HDI-10: Left Arm                         |   53   |  11  |    5     |
  | Last Stop Staxnet: Factory 11                     |   29   |  11  |    2     |
  | Zebros Copies: Point of Sale System               |   60   |  23  |    2     |
- | SFCTA Highway Sign #4903: Remote Access Interface |   166  |  10  |    1     |
- | Unknown Network 1: Unknown Context                |   19   |  15  |    27    |
- | UC Berkeley: EECS Department                      |   137  |  27  |    7     |
- | Workhouse: Work Management System                 |   268  |  27  |    2     |
- | Equity First Bank: San Francisco                  |   3008 |  14  |    10    |
- | Mitsuzen HDI-10: Heart                            |   161  |  37  |    5     |
- | Trash World News: Unknown Context                 |   612  |  20  |    3     |
+ | SFCTA Highway Sign #4902: Remote Access Interface |   144  |  10  |    1     |
+ | Unknown Network 1: Unknown Context                |   33   |  15  |    27    |
+ | UC Berkeley: EECS Department                      |   132  |  27  |    7     |
+ | Workhouse: Work Management System                 |   268  |  26  |    2     |
+ | Equity First Bank: San Francisco                  |   1140 |  14  |    10    |
+ | Mitsuzen HDI-10: Heart                            |   107  |  25  |    5     |
+ | Trash World News: Unknown Context                 |   542  |  20  |    3     |
  | TEC Redshift: Development Kit                     |   4496 |  20  |    2     |
- | TEC Exa-Blaster Modem: Radio Stations             |   241  |  58  |    10    |
- | Emerson's Guide: Streetsmarts GIS Database        |   46   |  40  |    6     |
+ | Digital Library Project: Patron Access System     |   300  |  30  |    74    |
+ | TEC Exa-Blaster Modem: Radio Stations             |   193  |  38  |    10    |
+ | Emerson's Guide: Streetsmarts GIS Database        |   46   |  41  |    6     |
  | Mitsuzen HDI-10: Left Hand                        |   50   |  24  |    9     |
- | Sawayama Wonderdisc: Drive Controller             |   3814 |  52  |    32    |
+ | Sawayama Wonderdisc: Drive Controller             |   3814 |  48  |    32    |
  | Alliance Power & Light: Streetsmarts GIS Database |   41   |  43  |    71    |
  | Xtreme League Baseball: Player Database           |   248  |  45  |    1     |
  | King's Ransom Online: US West Realm               |   45   |  45  |    32    |
