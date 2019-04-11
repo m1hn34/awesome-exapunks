@@ -36,3 +36,5 @@ Additionally, hacker battles will not be included here.
  | U.S. Government: FEMA Genetic Database            |   771  |  100 |    65    |
  | Unknown Network 2: Unknown Context                |   231  |  29  |    53    |
  | TEC Exa-Blaster Modem: Pager Network              |   627  |  64  |    27    |
+ | Mitsuzen HDI-10: Cerebral Cortex                  |   NYI  |  NYI |    NYI   |
+ 
