@@ -25,5 +25,5 @@ Additionally, hacker battles will not be included here.
  | Mitsuzen HDI-10: Left Hand                        |   50   |  24  |    9     |
  | Sawayama Wonderdisc: Drive Controller             |   3814 |  52  |    32    |
  | Alliance Power & Light: Streetsmarts GIS Database |   41   |  43  |    71    |
- | Xtreme League Baseball: Player Database           |   258  |  57  |    3     |
- | King's Ransom Online: US West Realm               |   45   |  54  |    32    |
+ | Xtreme League Baseball: Player Database           |   248  |  45  |    1     |
+ | King's Ransom Online: US West Realm               |   45   |  45  |    32    |
