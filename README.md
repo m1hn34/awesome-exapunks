@@ -20,10 +20,18 @@ Additionally, hacker battles will not be included here.
  | Mitsuzen HDI-10: Heart                            |   161  |  37  |    5     |
  | Trash World News: Unknown Context                 |   612  |  20  |    3     |
  | TEC Redshift: Development Kit                     |   4496 |  20  |    2     |
- | TEC Exa-Blaster Modem                             |   241  |  58  |    10    |
+ | TEC Exa-Blaster Modem: Radio Stations             |   241  |  58  |    10    |
  | Emerson's Guide: Streetsmarts GIS Database        |   46   |  40  |    6     |
  | Mitsuzen HDI-10: Left Hand                        |   50   |  24  |    9     |
  | Sawayama Wonderdisc: Drive Controller             |   3814 |  52  |    32    |
  | Alliance Power & Light: Streetsmarts GIS Database |   41   |  43  |    71    |
  | Xtreme League Baseball: Player Database           |   248  |  45  |    1     |
  | King's Ransom Online: US West Realm               |   45   |  45  |    32    |
+ | KGOG-TV: Satellite Uplink                         |   290  |  61  |    4     |
+ | TEC Exa-Blaster Modem: Dataphone Network          |   1046 |  69  |    9     |
+ | Last Stop Staxnet: Warehouse 27                   |   288  |  54  |    22    |
+ | Mitsuzen HDI-10: Visual Cortex                    |   365  |  40  |    11    |
+ | Holman Dynamics: Sales System                     |   4649 |  61  |    3     |
+ | U.S. Government: FEMA Genetic Database            |   771  |  100 |    65    |
+ | Unknown Network 2: Unknown Context                |   231  |  29  |    53    |
+ | TEC Exa-Blaster Modem: Pager Network              |   627  |  64  |    27    |
