@@ -1,6 +1,6 @@
 Solutions for Exapunks levels, with separate files for each optimisation category where relevant (not all levels will have 3 files).
 Note that the table below does not indicate one solution that has the indicated scores, rather, the solutions for each category have said scores.
-Additionally, hacker battles will not be included here.
+Additionally, hacker battles will not be included here. Levels marked as `NYI` are not yet completed.
 
  |                       Level                       | Cycles | Size | Activity |
  |  ------------------------------------------------ | :----: | :--: | :------: |
