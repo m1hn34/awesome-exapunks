@@ -18,7 +18,7 @@ Additionally, hacker battles will not be included here. Levels marked as `NYI` a
  | Workhouse: Work Management System                 |   268  |  26  |    2     |
  | Equity First Bank: San Francisco                  |   1140 |  14  |    10    |
  | Mitsuzen HDI-10: Heart                            |   107  |  25  |    5     |
- | Trash World News: Unknown Context                 |   542  |  20  |    3     |
+ | Trash World News: Unknown Context                 |   542  |  18  |    3     |
  | TEC Redshift: Development Kit                     |   4496 |  20  |    2     |
  | Digital Library Project: Patron Access System     |   300  |  30  |    74    |
  | TEC Exa-Blaster Modem: Radio Stations             |   193  |  38  |    10    |
