@@ -14,7 +14,7 @@ Additionally, hacker battles will not be included here. Levels marked as `NYI` a
  | Zebros Copies: Point of Sale System               |   60   |  23  |    2     |
  | SFCTA Highway Sign #4902: Remote Access Interface |   144  |  10  |    1     |
  | Unknown Network 1: Unknown Context                |   33   |  15  |    27    |
- | UC Berkeley: EECS Department                      |   132  |  27  |    7     |
+ | UC Berkeley: EECS Department                      |   94   |  27  |    7     |
  | Workhouse: Work Management System                 |   268  |  26  |    2     |
  | Equity First Bank: San Francisco                  |   1140 |  12  |    10    |
  | Mitsuzen HDI-10: Heart                            |   107  |  25  |    5     |
