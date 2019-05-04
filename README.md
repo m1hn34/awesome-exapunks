@@ -12,7 +12,7 @@ Additionally, hacker battles will not be included here. Levels marked as `NYI` a
  | Mitsuzen HDI-10: Left Arm                         |   53   |  11  |    5     |
  | Last Stop Staxnet: Factory 11                     |   29   |  11  |    2     |
  | Zebros Copies: Point of Sale System               |   60   |  23  |    2     |
- | SFCTA Highway Sign #4902: Remote Access Interface |   144  |  10  |    1     |
+ | SFCTA Highway Sign #4902: Remote Access Interface |   118  |  10  |    1     |
  | Unknown Network 1: Unknown Context                |   33   |  15  |    27    |
  | UC Berkeley: EECS Department                      |   94   |  27  |    7     |
  | Workhouse: Work Management System                 |   268  |  26  |    2     |
