@@ -23,7 +23,7 @@ Additionally, hacker battles will not be included here. Levels marked as `NYI` a
  | Digital Library Project: Patron Access System     |   300  |  30  |    74    |
  | TEC Exa-Blaster Modem: Radio Stations             |   193  |  38  |    10    |
  | Emerson's Guide: Streetsmarts GIS Database        |   46   |  41  |    6     |
- | Mitsuzen HDI-10: Left Hand                        |   50   |  24  |    9     |
+ | Mitsuzen HDI-10: Left Hand                        |   50   |  22  |    9     |
  | Sawayama Wonderdisc: Drive Controller             |   3814 |  48  |    32    |
  | Alliance Power & Light: Streetsmarts GIS Database |   41   |  43  |    71    |
  | Xtreme League Baseball: Player Database           |   248  |  43  |    1     |
