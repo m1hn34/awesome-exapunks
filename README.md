@@ -26,7 +26,7 @@ Additionally, hacker battles will not be included here. Levels marked as `NYI` a
  | Mitsuzen HDI-10: Left Hand                        |   50   |  24  |    9     |
  | Sawayama Wonderdisc: Drive Controller             |   3814 |  48  |    32    |
  | Alliance Power & Light: Streetsmarts GIS Database |   41   |  43  |    71    |
- | Xtreme League Baseball: Player Database           |   248  |  45  |    1     |
+ | Xtreme League Baseball: Player Database           |   248  |  43  |    1     |
  | King's Ransom Online: US West Realm               |   45   |  45  |    32    |
  | KGOG-TV: Satellite Uplink                         |   290  |  61  |    4     |
  | TEC Exa-Blaster Modem: Dataphone Network          |   1046 |  69  |    9     |
