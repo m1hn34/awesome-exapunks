@@ -7,7 +7,7 @@ Additionally, hacker battles will not be included here. Levels marked as `NYI` a
  | Trash World News: Tutorial 1                      |   4    |  3   |    2     |
  | Trash World News: Tutorial 2                      |   7    |  6   |    2     |
  | Trash World News: Tutorial 3                      |   9    |  12  |    3     |
- | Trash World News: Tutorial 4                      |   162  |  10  |    2     |
+ | Trash World News: Tutorial 4                      |   155  |  10  |    2     |
  | Euclid's Pizza: Order System                      |   13   |  11  |    1     |
  | Mitsuzen HDI-10: Left Arm                         |   53   |  11  |    5     |
  | Last Stop Staxnet: Factory 11                     |   29   |  11  |    2     |
