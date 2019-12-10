@@ -22,7 +22,7 @@ Additionally, hacker battles will not be included here. Levels marked as `NYI` a
  | TEC Redshift: Development Kit                     |   4496 |  20  |    2     |
  | Digital Library Project: Patron Access System     |   300  |  30  |    74    |
  | TEC Exa-Blaster Modem: Radio Stations             |   155  |  38  |    10    |
- | Emerson's Guide: Streetsmarts GIS Database        |   46   |  41  |    6     |
+ | Emerson's Guide: Streetsmarts GIS Database        |   40   |  18  |    6     |
  | Mitsuzen HDI-10: Left Hand                        |   50   |  22  |    9     |
  | Sawayama Wonderdisc: Drive Controller             |   3814 |  34  |    32    |
  | Alliance Power & Light: Streetsmarts GIS Database |   41   |  43  |    71    |
