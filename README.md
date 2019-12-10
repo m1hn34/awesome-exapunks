@@ -24,7 +24,7 @@ Additionally, hacker battles will not be included here. Levels marked as `NYI` a
  | TEC Exa-Blaster Modem: Radio Stations             |   193  |  38  |    10    |
  | Emerson's Guide: Streetsmarts GIS Database        |   46   |  41  |    6     |
  | Mitsuzen HDI-10: Left Hand                        |   50   |  22  |    9     |
- | Sawayama Wonderdisc: Drive Controller             |   3814 |  48  |    32    |
+ | Sawayama Wonderdisc: Drive Controller             |   3814 |  34  |    32    |
  | Alliance Power & Light: Streetsmarts GIS Database |   41   |  43  |    71    |
  | Xtreme League Baseball: Player Database           |   248  |  28  |    1     |
  | King's Ransom Online: US West Realm               |   45   |  45  |    32    |
