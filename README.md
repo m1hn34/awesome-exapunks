@@ -25,7 +25,7 @@ Additionally, hacker battles will not be included here. Levels marked as `NYI` a
  | Emerson's Guide: Streetsmarts GIS Database        |   40   |  18  |    6     |
  | Mitsuzen HDI-10: Left Hand                        |   50   |  22  |    9     |
  | Sawayama Wonderdisc: Drive Controller             |   3814 |  34  |    32    |
- | Alliance Power & Light: Streetsmarts GIS Database |   41   |  43  |    71    |
+ | Alliance Power & Light: Streetsmarts GIS Database |   41   |  22  |    71    |
  | Xtreme League Baseball: Player Database           |   248  |  28  |    1     |
  | King's Ransom Online: US West Realm               |   45   |  45  |    32    |
  | KGOG-TV: Satellite Uplink                         |   290  |  61  |    4     |
